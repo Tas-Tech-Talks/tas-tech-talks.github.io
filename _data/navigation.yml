@@ -1,3 +1,5 @@
 main: 
   - title: about
     url: /about
+  - title: registration
+    url: /registration
